@@ -1,5 +1,5 @@
 # Fantasy Duels!
-This project was made as the last project for IMC Summer semester 2024
+This project was made as the last project for IMC Summer semester 2024.
 
 Welcome to this little fantasy duel game where you fight procedurally generated enemies  in a rogue-like-ish experience.
 
